@@ -1,0 +1,13 @@
+user_id,transaction_date,status,city,age,subscription,raw_timestamp,email,username,price,store_id
+101,2026-07-01,Completed,Delhi,22,Premium,2026-07-01 10:15:00,user1@gmail.com,john,1200,101
+101,2026-07-01,Completed,Delhi,22,Premium,2026-07-01 10:15:00,user1@gmail.com,john,1200,101
+102,2026-07-02,,Mumbai,28,Premium,2026-07-02 11:20:00,user2@gmail.com,sarah,2500,102
+103,2026-07-03,Pending,Bengaluru,19,Basic,2026-07-03 09:00:00,,alex,900,101
+104,2026-07-04,Completed,Chennai,31,Premium,2026-07-04 12:45:00,user4@gmail.com,,1800,103
+105,2026-07-05,,Delhi,24,Premium,2026-07-05 14:30:00,user5@gmail.com,emma,,101
+106,2026-07-06,Cancelled,Kolkata,29,Premium,2026-07-06 16:10:00,user6@gmail.com,mike,3500,102
+107,2026-07-07,Completed,Mumbai,18,Premium,2026-07-07 08:15:00,user7@gmail.com,anna,2100,101
+108,2026-07-08,Pending,Pune,27,Basic,2026-07-08 15:40:00,user8@gmail.com,david,1450,104
+109,2026-07-09,Completed,Hyderabad,30,Premium,2026-07-09 18:20:00,user9@gmail.com,sophia,2750,103
+110,2026-07-10,,Delhi,21,Premium,2026-07-10 19:00:00,user10@gmail.com,chris,,101
+111,2026-07-11,Completed,Bengaluru,25,Premium,2026-07-11 13:25:00,user11@gmail.com,lisa,3200,102
