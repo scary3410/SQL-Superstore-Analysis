@@ -1,0 +1,14 @@
+region,product_category,sale_amount
+West,Electronics,5200
+West,Electronics,4800
+West,Furniture,3100
+West,Furniture,3900
+West,Grocery,950
+West,Grocery,1025
+East,Electronics,4300
+East,Furniture,2800
+North,Grocery,1200
+South,Electronics,5000
+West,Electronics,6100
+West,Furniture,4200
+West,Grocery,980
